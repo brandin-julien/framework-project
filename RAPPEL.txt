@@ -1,0 +1,11 @@
+in web => php -S localhost:8000 => run on server
+
+
+/bonjour
+/bonjour?name="myName"
+
+/aurevoir
+
+
+
+https://gist.github.com/smwhr/61862fa1d03763d437ccfb25bfcbcceb
