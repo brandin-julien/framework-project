@@ -4,6 +4,8 @@ First help
 
 **Use symfony component HttpFoundation**
 
+**Use Bootstrap 3.3.7**
+
 #Run server
 
 **Go to web directory**
