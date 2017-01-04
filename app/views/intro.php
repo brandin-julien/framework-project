@@ -1,15 +1,16 @@
 <?php
+include "../web/boostrap.php";
 
-include $controllersList[$path];
+include $controllersList[$path]; //include via index.php
 
 print("<h1>".$title."</h1>");
 print("<br>");
 print("Where you want go !? ");
 print("<br>");
-print("<a href='#'>North</a>");
+print("<a href='/north'>North</a>");
 print("<br>");
-print("<a href='#'>South</a>");
+print("<a href='/south'>Go to bar</a>");
 print("<br>");
-print("<a href='#'>West</a>")
+print("<a href='/west'>West</a>")
 
 ?>
